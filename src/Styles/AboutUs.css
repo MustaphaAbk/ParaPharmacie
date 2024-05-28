@@ -1,0 +1,28 @@
+/* AboutUs.css */
+.about-us-container {
+    background-color: #f9f9f9;
+    padding: 70px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
+h3{
+    color: #4CAF50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: #4CAF50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-container p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
